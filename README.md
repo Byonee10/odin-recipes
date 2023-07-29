@@ -1,0 +1,1 @@
+Practicing the basic knowledge of image and link attachment to a webpage by odin project.
